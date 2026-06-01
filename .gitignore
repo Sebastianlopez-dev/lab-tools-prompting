@@ -1,6 +1,6 @@
 .alt/
-.env/
+.env
 .conda/
+.DS_Store
 
 notes.md
-
